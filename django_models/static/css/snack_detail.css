@@ -1,0 +1,29 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    margin: 1rem
+}
+
+td, th {
+border: 1px solid #dddddd;
+text-align: left;
+padding: 8px;
+}
+
+tr:nth-child(even) {
+background-color: #dddddd;
+}
+
+.nav-bar a{
+    text-decoration: none;
+    font-size: 1.4rem;
+    border-radius: 0.5rem;
+    margin: 1rem;
+}
+.nav-bar a:hover{
+    background-color: black;
+    color: white;
+}
+h1{
+    color: blue;
+}
